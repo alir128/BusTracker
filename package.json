@@ -1,0 +1,17 @@
+{
+  "name": "transitapp",
+  "version": "1.0.0",
+  "description": "alexa transit app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali Raza",
+  "license": "ISC",
+  "dependencies": {
+    "@google/maps": "^0.4.5",
+    "alexa-sdk": "^1.0.20",
+    "gtfs-realtime-bindings": "0.0.4",
+    "moment": "^2.19.2"
+  }
+}
