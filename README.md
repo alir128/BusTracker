@@ -13,3 +13,7 @@ and Intents in Canadian English and other languages.
 
 Few tweaks are still required to make the application pass Amazon verification
 and to be made publicly available for Canadian customers.
+
+![](screenshot0.png)
+
+![](screenshot1.png)
